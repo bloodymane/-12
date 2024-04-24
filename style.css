@@ -1,0 +1,42 @@
+.top{
+    font-family: Verdana, sans-serif;
+    scroll-behavior: smooth;
+    font-weight: bold;
+    font-size: 150%;
+    margin-left: 300px;
+    margin-top: 30px;
+}
+body{
+    background-image: url(фото/Frame\ 7.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    height: 105px;
+    border: 1px solid black;
+}
+.yy{
+    font-family: Verdana,sans-serif;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 700px;
+}
+.uu{
+    font-family: Verdana,sans-serif;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+p{
+    box-sizing: border-box;
+}
+.tin{
+   
+}
+.tin1{
+
+}
+
